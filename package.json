@@ -1,0 +1,20 @@
+{
+  "name": "danfosstestautomation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run"
+  },
+  "author": "Shaik Rehana",
+  "license": "ISC",
+  "dependencies": {
+   
+    "cypress": "^8.2.0",
+    "cypress-cucumber-preprocessor": "^4.2.0"
+    
+  },
+  "cypress-cucumber-preprocessor": {
+    "nonGlobalStepDefinitions": true
+  }
+}

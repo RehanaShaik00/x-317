@@ -1,0 +1,5 @@
+{
+  "testFiles": "**/*.feature",
+  "defaultCommandTimeout": 50000,
+  "projectId": "d87yim"
+}
